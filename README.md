@@ -5,4 +5,6 @@ It has 3 packages:
 2: pkg_ros_iot_bridge: This contains the scripts to act as an intermediator between the ROS environment and the IOT environment
 3: vb_simulation_pkgs: This contains all the URDF and SRDF files that are used to create the enviornment. 
 
+introduction.html : it contains the documentation of the entire project including working and implementation.
+
 Here is the video of the process: https://www.youtube.com/watch?v=gNyaZFBlzPM&ab_channel=AmanZaidi
